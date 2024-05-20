@@ -19,5 +19,4 @@ def main():
     decoded_message = decode_matrix(matrix)
     print("Pesan terdekripsi:", decoded_message)
 
-if __name__ == "__main__":
     main()
